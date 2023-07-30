@@ -1,0 +1,63 @@
+.body{
+    background-color: lightgrey;
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    line-height: 2.5rem;
+}
+
+.introduction{
+    text-align: center;
+    padding-top: 1.5rem;
+    line-height: 2.5rem;
+}
+
+
+.picture{
+    background-color: whitesmoke;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.timeline{
+    padding: 2.5rem;
+}
+
+.timeline ul{
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+    line-height: 2rem;
+}
+
+.italicize{
+    font-style: italic;
+}
+
+.timeline .italicize{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.bolden{
+    font-size: x-large;
+    font-weight: bold;
+}
